@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @OdubanjoJoshua
 - 👀 I’m interested in Full Stack Web development and Automation with Python.
 - 🌱 I’m currently learning HTML, CSS, Python, Git, Javascript and Django.
-- 💞️ I’m looking to collaborate and mentored by prolific trch buddieson full stack and automation.
+- 💞️ I’m looking to collaborate and be mentored by prolific tech buddies on full stack and automation.
 - 📫 How to reach me on Email - joshuaodubanjo@yahoo.com and Tel - +2347055434671.
 
 <!---
